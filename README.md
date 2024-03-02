@@ -1,2 +1,4 @@
-# St_Intellij
-do
+# St_ByIntellij
+20240302
+1. Java "21.0.2" (2024-01-16)
+학습 및 예제 프로젝트
