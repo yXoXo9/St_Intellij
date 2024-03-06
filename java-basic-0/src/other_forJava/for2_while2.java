@@ -1,5 +1,7 @@
 package other_forJava;
 
+import java.util.Arrays;
+
 public class for2_while2 {
     public static void main(String[] args) {
         System.out.println("do_While");
@@ -50,5 +52,10 @@ public class for2_while2 {
             fSum = fSum + fi;
             System.out.println("fi=" + fi + " fSum=" + fSum);
         }
+
+        // soutv Variable value 출력
+        // soutp method parameter name & values 출력
+        // soutm current class & method name 출력
+        System.out.println("fEndNum = " + fEndNum);
     }
 }
