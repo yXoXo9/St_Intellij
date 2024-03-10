@@ -7,6 +7,7 @@ public class PrimitiveVsReference2 {
         Data dataB = dataA;
 
         System.out.println("dataA 참조값 = " + dataA);
+        System.out.println("dataA 참조값 = " + dataA.sValue);
         System.out.println("dataB 참조값 = " + dataB);
         /*
          ** 자바는 항상 변수의 값을 복사해서 대입한다. **
