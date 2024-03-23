@@ -34,6 +34,11 @@ public class DecoData {
         deco.instanceMethod();
     }
 
+    public static void staticCall(){
+        staticValue++;
+        staticMethod();
+    }
+
     public void instanceCall(){
         instanceValue++; // 인스턴스 변수 호출
         instanceMethod(); // 인스턴스 메서드 호출
